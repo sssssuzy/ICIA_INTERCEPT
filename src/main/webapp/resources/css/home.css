@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+#divTop{ padding:30px 0px 0px 0px; text-align:center;}
+#divCenter{margin:10px auto;  border:1px solid  white; margin:0px 10px 0px 10px; padding-bottom:5px;}
+#divMenu{overflow:hidden; padding:30px 0px 0px 30px;  border-top:1px solid black; border-bottom:1px solid black; margin:20px; padding:10px; }
+#divBottom{padding:30px 0px 0px 0px; text-align:center;}
+.item-left{float:left; margin-left:10px;}
+.item-right{float:right; margin-right:10px;}
+a{text-decoration:none; color:#364967;font-size:15px;}
+a:hover{font-weight:bold;}
+#bannerImg{text-align:center;}
+#tblLogin {width: 100%; border-top: 1px solid #444444; border-collapse: collapse;}
+th, td {text-align: center; border: 1px solid white;padding: 10px; font-weight: 800;}
